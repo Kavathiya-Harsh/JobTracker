@@ -1,4 +1,4 @@
-# 🚀 JobTrackr — Smart Job Application Tracker
+# 🚀 JobTracker — Smart Job Application Tracker
 
 > A full-stack web application to manage, track, and analyze your entire job search pipeline from a single, beautiful dashboard.
 
